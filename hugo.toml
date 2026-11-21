@@ -1,0 +1,37 @@
+baseURL = 'https://joshuacalcagno.github.io/'
+title = '> My Blog'
+theme = 'austere-theme-hugo'
+languageCode = "en"
+
+[params]
+  author = "Joshua Calcagno"
+  keywords = "cybersecurity, projects, writeups"
+
+  strapline = "Cybersecurity Projects and Notes"
+  footerText = "© 2026 Joshua Calcagno"
+
+[menus]
+  [[menus.main]]
+    name = "> Home"
+    pageRef = "/"
+    weight = 10
+
+  [[menus.main]]
+    name = "> Posts"
+    pageRef = "/posts"
+    weight = 20
+
+  [[menus.main]]
+    name = "> Tags"
+    pageRef = "/tags"
+    weight = 30
+
+  [[menus.main]]
+    name = "> About"
+    pageRef = "/about"
+    weight = 40
+
+  [[menus.main]]
+    name = "> GitHub"
+    url = "https://github.com/joshuacalcagno"
+    weight = 50
