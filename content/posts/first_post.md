@@ -1,6 +1,6 @@
 +++
 date = '2026-11-20T20:30:47-03:00'
-draft = false
+draft = true
 title = 'MISP and Threat Intelligence Research'
 +++
 
@@ -47,7 +47,6 @@ If the hash it returns is incongruent with the one on the Oracle Corporation web
 
 The next step was preparing the Ubuntu 24.04 VM from osboxes.org
 
-(subtitle2)
 #### > Why Ubuntu 24.04?
 
 Ubuntu 24.04 LTS (Noble Numbat, 64-bit) is the only version explicitly supported by the MISP 2.5 installation script. If it detects a different Ubuntu version, the script stops. This is because it relies on a specific set of tested dependencies and configurations to ensure a reliable installation. Even if versions 24.10 or 25.04 appear first on the download website, do not use them.
