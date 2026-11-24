@@ -8,7 +8,7 @@ languageCode = "en"
   keywords = "cybersecurity, projects, writeups"
 
   strapline = "Cybersecurity Projects and Notes"
-  footerText = '© 2026 Joshua Calcagno - Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a>'
+  footerText = '© 2026 Joshua Calcagno - Made with <a href="https://gohugo.io/">Hugo</a> and the <a href="https://github.com/tomwrw/austere-theme-hugo">Austere</a> theme'
 
 [menus]
   [[menus.main]]
