@@ -1,6 +1,6 @@
 +++
-date = '2026-11-20T20:30:47-03:00'
-draft = false
+date = '2026-10-16T16:30:47-03:00'
+draft = true
 title = 'MISP and Threat Intelligence Research'
 +++
 
